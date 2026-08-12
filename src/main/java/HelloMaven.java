@@ -4,6 +4,7 @@ public class HelloMaven {
         System.out.println("=================================");
         System.out.println("Hello from Maven + Jenkins!");
         System.out.println("Maven build completed successfully.");
+        System.out.println("Made a change.");
         System.out.println("=================================");
     }
 }
